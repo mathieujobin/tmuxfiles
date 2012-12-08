@@ -36,5 +36,7 @@ Here’s a list of keyboard shortcuts defined in `.tmux.conf`
 * `<CTRL-A> <M>` Toggle monitoring for content in current window
 * `<CTRL-A> <S>` Synchronize panes
 * `<CTRL-A> <Tab>` Switch to the next window
+* `<CTRL-A> <z>` Extract the current panel to its own window (for easier view/copy/pasting)
+* `<CTRL-A> <Z>` Restored the previously extracted panel to its original window
 * `<F11>` Swap pane with the one on the left
 * `<F12>` Swap pane with the one on the right
